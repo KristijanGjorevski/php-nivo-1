@@ -102,7 +102,6 @@ if(($true !== $false) || ($false === $true)){
 }
 
 
-
 // USLOVI - uslovot IF...Else
 $sobiranje = 2+2;
 if($sobiranje == 4){
