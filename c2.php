@@ -101,3 +101,31 @@ $i++;
 
     email: kikogjorevski@gmail.com
 */
+
+// $broevi = [
+//     'arhiva' => [1, 2, 3, 2],
+//     'lager' => [4, 5, 6, 2],
+//     'magacin' => [7, 8, 9, 2],
+//     'zaliha' => [1, 2, 3, 2]
+// ];
+
+// $filmovi = ["the shawshank redemption", "the godfather", "the dark knight", "the lord of the rings"];
+// $godini = [1994, 1972, 2008, 2001];
+// $niza = [];
+// foreach($filmovi as $brojcanik => $value1){
+//     // echo "$key e klucot, $value e vrednosta <br>";
+//     $niza[$godini[$brojcanik]] = ucwords($value1);
+// }
+// echo '<pre>';
+// print_r($niza);
+// echo '</pre>';
+// for($i=0;$i<count($broevi);$i++){
+//     $broevi[$i];
+// }
+//array_combine()
+// $sum = 0;
+// foreach($broevi a $element){
+//     foreach($element as $element2){
+//         $sum += $element2;
+//     }
+// }
