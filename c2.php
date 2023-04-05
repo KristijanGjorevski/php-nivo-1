@@ -13,7 +13,8 @@ $serii = [
 
 $serii[100] = 'Friends'; // 7
 $serii[99] = 'Rocky 2';
-array_push($serii,'Rocky 3');
+$serii[] = 'Rocky 3';
+array_push($serii,'Rocky 4');
 
 //count() // Vrakja brojot od elementi vo niza
 //array_push() // Dodava eden element od krajot na nizata

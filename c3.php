@@ -104,5 +104,5 @@ izbor(explode('##',$brojanica));
 
 //die(); // gasenje od skripta
 // www.php.net
-
+izbor($GLOBALS);
 ?>
