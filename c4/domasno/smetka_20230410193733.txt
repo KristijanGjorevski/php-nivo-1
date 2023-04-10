@@ -1,0 +1,13 @@
+artikal   cena
+==============
+chicken    200
+majonez     20
+kecap       20
+pomfrit     50
+pecurki     60
+--------------
+SUM:       350
+delivery   120
+==============
+TOTAL:     470
+==============

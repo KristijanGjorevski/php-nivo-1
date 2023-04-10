@@ -11,7 +11,7 @@
 
 
 
-    <form action="naplata.php" method="POST">
+    <form action="domasno/alojz-c4.php" method="POST">
         <h3>Glaven Obrok</h3>
         <input type="radio" name="glaven_obrok" id="hamburger" value="hamburger">
         <label for="hamburger">Hamburger</label>
