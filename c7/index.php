@@ -11,9 +11,9 @@ $query = $db->prepare($sql);
 $query->execute();
 $studenti = $query->fetchAll(PDO::FETCH_ASSOC);
 
-echo '<pre>';
-print_r($studenti);
-echo '</pre>';
+// echo '<pre>';
+// print_r($studenti);
+// echo '</pre>';
 ?>
 
 <div class="container">
