@@ -34,7 +34,7 @@ class Torta extends Blago {
     public $dimension_of_tires;
     public $speed;
 
-    public function drive(){
+    public function GetExchangeRate(){
         echo 'Car is not driving';
     }
 }
